@@ -1,0 +1,8 @@
+CIM FRC Motor
+Skateboard
+3S Lipo battery  (2x)
+esp32 dev module
+breadboard
+ bts 7960 pwm
+chain and sprocket drive train system 
+steel axle from home depot
