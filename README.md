@@ -1,2 +1,8 @@
-# klinoboard
-STASIS!! special ingredient: foot pedal. idea: eskateboard u lean/shift to control
+# Klinoboard
+STASIS!! special ingredient: nfc idea: eskateboard you lean to control
+
+##
+
+## 
+
+## BOM
