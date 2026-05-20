@@ -22,7 +22,7 @@ Klinoboard is a lean-controlled electric skateboard. You lean in to give it powe
 3. Step off to stop. (no brake...)
 4. When time runs out, the motor shuts off automatically.
 
-![Klinoboard closeup](media/IMG_6383 (1)_landscape.jpg)
+![Klinoboard closeup](media\IMG_6383(1)_landscape.jpg)
 
 ![Klinoboard assembled](media/IMG_6254_landscape.JPG)
 
